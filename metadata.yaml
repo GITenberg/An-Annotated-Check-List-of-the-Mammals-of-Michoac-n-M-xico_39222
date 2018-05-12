@@ -1,0 +1,37 @@
+_repo: An-Annotated-Check-List-of-the-Mammals-of-Michoac-n-M-xico_39222
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 39222-h/images/cover.jpg
+creator:
+  authors:
+  - agent_name: Hall, E. Raymond (Eugene Raymond)
+    alias: Hall, Eugene Raymond
+    birthdate: 1902
+    deathdate: 1986
+    gutenberg_agent_id: '26108'
+    url: http://www.gutenberg.org/2009/agents/26108
+  - agent_name: Villa Ramírez, Bernardo
+    aliases:
+    - Villa, Bernardo
+    - Villa Ramirez, Bernardo
+    - Ramírez, Bernardo Villa
+    - Villa R., Bernardo (Villa Ramírez)
+    birthdate: 1911
+    gutenberg_agent_id: '36953'
+    url: http://www.gutenberg.org/2009/agents/36953
+description: ''
+gutenberg_issued: '2012-03-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39222'
+  lccn: '50063056'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mammals -- Mexico -- Michoacán de Ocampo'
+- !lcc 'QH'
+title: An Annotated Check List of the Mammals of Michoacán, México
+url: http://www.gutenberg.org/ebooks/39222
